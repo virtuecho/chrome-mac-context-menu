@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AccessibilityImageLabelsEnabled</key>
+			<false/>
+			<key>GeminiSettings</key>
+			<integer>1</integer>
+			<key>PayloadDescription</key>
+			<string>Keep Chrome Gemini integration and Google image descriptions disabled.</string>
+			<key>PayloadDisplayName</key>
+			<string>Chrome Context Menu Policy</string>
+			<key>PayloadIdentifier</key>
+			<string>local.codex.chrome-gemini-policy.preferences</string>
+			<key>PayloadType</key>
+			<string>com.google.Chrome</string>
+			<key>PayloadUUID</key>
+			<string>A11320FC-C9B2-4BC5-A48E-2301A8BDE9C6</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Baseline example retaining selected Chrome policies while allowing Lens sharing and Cast.</string>
+	<key>PayloadDisplayName</key>
+	<string>Chrome Context Menu Policy</string>
+	<key>PayloadIdentifier</key>
+	<string>local.codex.chrome-gemini-policy</string>
+	<key>PayloadOrganization</key>
+	<string>Example</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>0E4D19AB-8FEA-4D71-B8AD-73A33DD399BD</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
